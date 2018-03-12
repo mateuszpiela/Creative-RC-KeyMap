@@ -1,7 +1,7 @@
 # Creative-RC-KeyMap
 KeyMapy do pilota Creative RM-820 dołączonego do karty dźwiękowej  Sound Blaster X-Fi Surround 5.1 Pro
 
-#Instalacja
+## Instalacja
 wystarczy wszystko skopiować i wkleić do katalogu
 
 dla 64 Bit 
